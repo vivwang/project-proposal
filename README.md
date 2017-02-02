@@ -31,8 +31,10 @@ Considering these functions, I defined some areas I need to explore as follow.
 
 ###(Alert)
 ##Project 3- Are U Sure?
-Due in a week
-####My project is a keyboard which can detect the pressure when user types on keyboard. When pressure is above a certain level, and hit send, the window pops out an alert asking if the user really want to send the message. Considering these functions, I defined some areas I need to explore as follow.
+(Due in a week)
+
+####Description
+My project is a keyboard which can detect the pressure when user types on keyboard. When pressure is above a certain level, and hit send, the window pops out an alert asking if the user really want to send the message. Considering these functions, I defined some areas I need to explore as follow.
 * An alert when press send button 
 (processing)
 * Connect pressure sensor
@@ -41,8 +43,10 @@ Due in a week
 
 ###(facial recognition)
 ##Project 4- Emoji Me
-Due in a week
-####My project is a chat system which can detect user's facial emotion and auto send emoji. The system can show the user what his/her face look like when they are not aware of their emotion. Considering these functions, I defined some areas I need to explore as follow.
+(Due in a week)
+
+####Description
+My project is a chat system which can detect user's facial emotion and auto send emoji. The system can show the user what his/her face look like when they are not aware of their emotion. Considering these functions, I defined some areas I need to explore as follow.
 * Crack the facial recognition software
 (Affedex Me)
 * interface design
