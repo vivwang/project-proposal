@@ -2,6 +2,7 @@
 ###(keyboard transformation)
 ##Project 1- Breathe with Me
 Due in a week
+
 https://cloud.githubusercontent.com/assets/15898831/22572622/c6727828-e959-11e6-9418-b934d29b35e6.jpg
 ####My project is a flexible keyboard which can detect user's heart beat, play sound, inhale and exhale air. Considering these functions, I defined some areas I need to explore as follow.
 * Design a flexible keyboard which can accomplish inhale and exhale movement
