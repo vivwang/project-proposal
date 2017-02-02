@@ -1,12 +1,12 @@
 # project-proposal
 ###(keyboard transformation)
 ##Project 1- Breathe with Me
-Due in a week
+(Due in a week)
 
 https://cloud.githubusercontent.com/assets/15898831/22572622/c6727828-e959-11e6-9418-b934d29b35e6.jpg
 ####Description
 My project is a flexible keyboard which can detect user's heart beat, play sound, inhale and exhale air. 
-Set a level at 90, when user's pulse is over 90, the balloon starts to inflate. Use a timeframe 30s, if pulse continues to increase, the speed of inflation increases and the keyboard speaks, "are you nervour, please breathe with me to keep ypu calm"; if user's pulse decreases, balloon starts to deflate. The balloon keeps to inflate until balloon explode.
+Set a level at 90, when user's pulse is over 90, use a timeframe 30s, if pulse continues to increase, the keyboard speaks, "are you nervour, please breathe with me to keep ypu calm".
 
 
 Considering these functions, I defined some areas I need to explore as follow.
@@ -17,8 +17,13 @@ Considering these functions, I defined some areas I need to explore as follow.
 * Inhale and exhale mechanics
 
 ##Project 2- Don't Explore the Balloon
-Due in a week
-####My project is a keyboard which can detect the pressure when user types on keyboard. When pressure is above a certain level, the keyboard starts to inflate a balloon；when pressure is under this level, the keyboard deflates the balloon. The balloon will eventually explode. Considering these functions, I defined some areas I need to explore as follow.
+(Due in a week)
+
+####Description
+My project is a keyboard which can detect the pressure when user types on keyboard. When pressure is above a certain level, the keyboard starts to inflate a balloon；Use a timeframe 30s, if pulse continues to increase, the speed of inflation increases, if user's pulse decreases, balloon starts to deflate. The balloon keeps to inflate until balloon explode. 
+
+
+Considering these functions, I defined some areas I need to explore as follow.
 * Design a mechanic that can inflate and deflate balloon
 * Connect pressure sensor to detect when to blow the balloon
 (pressure sensor, Arduino)
