@@ -28,6 +28,10 @@ Considering these functions, I defined some areas I need to explore as follow.
 * Connect pressure sensor to detect when to blow the balloon
 (pressure sensor, Arduino)
 
+concern: what pressure sensor
+        pressure: indi
+        threadhold level, changing spikes, not absolute pressure
+
 
 ###(Alert)
 ##Project 3- Are U Sure?
