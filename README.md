@@ -1,6 +1,6 @@
 # project-proposal
 ###(keyboard transformation)
-##Project 1- Breathe with Me
+##Project 1.1- Breathe with Me
 (Due in a week)
 
 https://cloud.githubusercontent.com/assets/15898831/22572622/c6727828-e959-11e6-9418-b934d29b35e6.jpg
@@ -17,7 +17,7 @@ Considering these functions, I defined some areas I need to explore as follow.
 * An alert when press send button 
 (processing)
 
-##Project 2- Don't Explore the Balloon (Optional)
+##(Optional) Project 1.2- Don't Explore the Balloon 
 (Due in a week)
 
 ####Description
@@ -35,7 +35,7 @@ concern: what pressure sensor
  
 
 ###(facial recognition)
-##Project 4- Emoji Me
+##Project 2- Emoji
 (Due in a week)
 
 ####Description
