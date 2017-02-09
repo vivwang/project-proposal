@@ -1,9 +1,7 @@
 # project-proposal
 ###(keyboard transformation)
 ##Project 1.1- Breathe with Me
-(Due in a week)
-
-https://cloud.githubusercontent.com/assets/15898831/22572622/c6727828-e959-11e6-9418-b934d29b35e6.jpg
+ 
 ####Description
 My project is a flexible keyboard which can detect user's heart beat, play sound, inhale and exhale air. 
 Set a level at 90, when user's pulse is over 90, use a timeframe 30s, if pulse continues to increase, the keyboard speaks, "are you nervour, please breathe with me to keep you calm". When pressure is above a certain level, and hit send, the window pops out an alert asking if the user really want to send the message. 
@@ -16,6 +14,12 @@ Considering these functions, I defined some areas I need to explore as follow.
 * Inhale and exhale mechanics
 * An alert when press send button 
 (processing)
+
+###Components
+* Use 2 buttons to simulate keyboard press action
+Detects speed, time hold, repeatables
+* Use Force Sensitive Resistor 0.5" to detect pressure
+
 
 ##(Optional) Project 1.2- Don't Explore the Balloon 
 (Due in a week)
