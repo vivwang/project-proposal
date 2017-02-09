@@ -16,10 +16,13 @@ Considering these functions, I defined some areas I need to explore as follow.
 (processing)
 
 ###Components
-* Use 2 buttons to simulate keyboard press action
-Detects speed, time hold, repeatables
+* Connect 1 button
+* Measure how long a button hold
+* Measure time difference between two presses (timeSpend = startTime- lastReleaseTime?)
+* Connect 2 buttons
+* Measure the time difference between 1 & 2 button presses
+* Measure the repeatble signals from 1 button
 * Use Force Sensitive Resistor 0.5" to detect pressure
-
 
 ##(Optional) Project 1.2- Don't Explore the Balloon 
 (Due in a week)
