@@ -48,6 +48,6 @@ concern: what pressure sensor
 ####Description
 My project is a chat system which can detect user's facial emotion and auto send emoji. The system can show the user what his/her face look like when they are not aware of their emotion. Considering these functions, I defined some areas I need to explore as follow.
 * Crack the facial recognition software
-(Affedex Me)
+https://jsfiddle.net/vivwang/8Lp5Lukn/1/
 * interface design
 (processing)
