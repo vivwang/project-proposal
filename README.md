@@ -21,6 +21,7 @@ Considering these functions, I defined some areas I need to explore as follow.
 * Measure time difference between two presses √
 * Connect 6 buttons √
 * Measure the time difference between 1 & 2 button presses √
+* Connect motor
 * Connect Arduino with Processing
 * Processing tts
 * Measure the repeatble signals from 1 button
