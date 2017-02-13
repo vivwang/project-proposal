@@ -16,13 +16,16 @@ Considering these functions, I defined some areas I need to explore as follow.
 (processing)
 
 ###Components
-* Connect 1 button
-* Measure how long a button hold
-* Measure time difference between two presses (timeSpend = startTime- lastReleaseTime?)
-* Connect 2 buttons
-* Measure the time difference between 1 & 2 button presses
+* Connect 1 button √
+* Measure how long a button hold √
+* Measure time difference between two presses √
+* Connect 6 buttons √
+* Measure the time difference between 1 & 2 button presses √
+* Connect Arduino with Processing
+* Processing tts
 * Measure the repeatble signals from 1 button
 * Use Force Sensitive Resistor 0.5" to detect pressure
+
 
 ##(Optional) Project 1.2- Don't Explore the Balloon 
 (Due in a week)
@@ -51,3 +54,5 @@ My project is a chat system which can detect user's facial emotion and auto send
 https://jsfiddle.net/vivwang/8Lp5Lukn/1/
 * interface design
 (processing)
+ 
+
