@@ -1,5 +1,5 @@
 # project-proposal
-##Inputs -keyboard
+##Input -keyboard
 
 ####Description
 Design a keyboard with multiple keys to detect the speed keys are pressed and repeatable keys are pressed.
@@ -43,7 +43,7 @@ Considering these functions, I defined some areas I need to explore as follow.
 
 
 
-##Inputs -Pulse Sensor
+##Input -Pulse Sensor
 
 ###Project 4- Breathe with Me
  
@@ -58,7 +58,7 @@ Considering these functions, I defined some areas I need to explore as follow.
  
 
  
-##Inputs- Facial Recognition
+##Input- Facial Recognition (use OpenCV to fake matching facial expression)
 
 ###Project 5- Face_emoji
  
@@ -87,7 +87,7 @@ Considering these functions, I defined some areas I need to explore as follow.
 My project is a chat system which can detect user's facial expression, when user's typing emotion is different than facial expression, it will show user the real emotion on screen.
  
 
-###Project 7- Empathy Machine
+###Project 8- Empathy Machine
  
 ####Description
 When detect user is sad, the machine will cry with user.  
